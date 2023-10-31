@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋. I'm Mutu. A day dreamer.
 Nice to meet you!
+
+- 🌱 I’m currently learning everything what I'm interested. Golang, Rust, Java/Kotlin, C# and so on.
 <!--
 **mutuyihao/mutuyihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<img src="https://github-readme-stats.vercel.app/api?username=mutuyihao" align="left">-->
+<img src="https://github-readme-stats.vercel.app/api?username=mutuyihao" align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutuyihao" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutuyihao" align="right">

@@ -1,7 +1,11 @@
-### Hi there 👋. I'm Mutu. A day dreamer.
-Nice to meet you!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutuyihao" align="right">
 
-- 🌱 I’m currently learning everything what I'm interested. Golang, Rust, Java/Kotlin, C# and so on.
+### Hi there 👋. I'm Mutu. A day dreamer.
+#### Nice to meet you!
+
+- 🌱 I’m currently learning everything what I'm interested. 
+- 😄 My portfolio is :[portfolio](https://skyey.cc)
+- 👯 My blog is : [blog](https://blog.skyey.cc)
 <!--
 **mutuyihao/mutuyihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=mutuyihao" align="left">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=mutuyihao" align="left">-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutuyihao" align="right">
+

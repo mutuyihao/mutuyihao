@@ -4,11 +4,11 @@
 #### Nice to meet you!
 
 - 🌱 I’m currently learning everything what I'm interested. 
-- 😄 My portfolio is :[portfolio](https://skyey.cc)
-- 👯 My blog is : [blog](https://blog.skyey.cc)
+
 <!--
 **mutuyihao/mutuyihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 😄 My portfolio is :[portfolio](https://skyey.cc)
+- 👯 My blog is : [blog](https://blog.skyey.cc)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
